@@ -26,7 +26,7 @@ The process as such is normally what you need to do for standard running of apps
 3. PHP
 4. Firebase
 5. SQL
-6. HTML,CSS,Javascipt,Bootstrap
+6. HTML, CSS, Bootstrap
 
 Link to our website: https://mind-care.netlify.app/
 
