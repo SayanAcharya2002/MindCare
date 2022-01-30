@@ -6,6 +6,7 @@ This is a complete one stop solution to all mental health issues.We believe in t
 2. MindBot
 3. Doc Appointment
 4. Smart Prescription
+5. Doc Finder
 
 We have uploaded the presentation regarding our project. If you do want you can check that file. 
 
